@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 对前端开发感到厌恶，对游戏开发充满期待
 - 💬 喜欢造轮子（并不
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CN-Shopkeeper&layout=compact&hide=html,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CN-Shopkeeper&layout=compact&hide=html,javascript,c&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CN-Shopkeeper&layout=compact)
 
